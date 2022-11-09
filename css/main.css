@@ -259,6 +259,7 @@ body {
   color: #0152C5;
   font-size: 48px;
   margin-bottom: 20px;
+  text-align: center;
 }
 
 .resume__experience-education {
@@ -271,6 +272,12 @@ body {
   margin-right: 20px;
 }
 
+.resume__experience-education {
+  display: flex;
+  justify-content: space-between;
+}
+
+
 .title__color-size {
   color: #000;
   font-size: 30px;
@@ -278,14 +285,17 @@ body {
 
 .resume__name {
   padding-bottom: 10px;
+  text-align: center;
 }
 
 .resume__city {
   padding-bottom: 20px;
+  text-align: center;
 }
 
 .resume__aboutme {
   padding-bottom: 36px;
+  text-align: center;
 }
 
 .resume__work,
