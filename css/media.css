@@ -16,7 +16,7 @@
 
 @media (max-width: 992px) {
   .intro {
-    height: 650px;
+    height: 100vh;
   }
   .intro__name {
     font-size: 70px;
