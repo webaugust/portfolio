@@ -110,7 +110,7 @@
   }
   .header__nav {
     padding-top: 60px;
-    background: rgba(0, 62, 109, 0.8);
+    background: rgba(0, 0, 0, 0.9);
     font-size: 20px;
   }
   .header__nav.show {
